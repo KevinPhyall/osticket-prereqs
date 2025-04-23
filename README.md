@@ -24,9 +24,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services
 - Web Platform Installer
-- Install MySQL
 - Install C++ Redistributable
+- Install MySQL
+- Register PHP
+- Enable Extenions
 - Configure Permissions
+- Install HeidiSQL
+- Install osTicket In Browser
 
 <h2>Installation Steps</h2>
 
